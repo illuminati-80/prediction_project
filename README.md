@@ -14,6 +14,9 @@ With the novel Coronavirus at the forefront of everybody's thoughts and the comp
 
 
 ## Usage
+Open the covid-india-research.ipynb file above 
+or
+Execute the following commands in a command line to run a copy of the project notebook on your local PC. 
 
 ```
 git clone https://github.com/CryoZEUS/prediction_project
