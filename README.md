@@ -1,7 +1,7 @@
 
 # Study Analysis of COVID-19 using Machine Learning and Neural Networks 
 
-a reseach project by [Yash Bhardwaj](https://github.com/CryoZEUS) and [Siddhant Singh](https://github.com/illuminati-80)
+a research project by [Yash Bhardwaj](https://github.com/CryoZEUS) and [Siddhant Singh](https://github.com/illuminati-80)
 
 ## ML in Medical Science
 
